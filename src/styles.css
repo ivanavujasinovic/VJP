@@ -1,0 +1,162 @@
+/* Koko homman tausta*/
+
+.App {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: left;
+  background-image: url("/VJP-taustaa.jpg");
+  background-size: 100%;
+  background-repeat: repeat-y;
+  display: flex;
+  flex-direction: column;
+  margin-top: -4px;
+}
+
+/* oikeella puolella rullaava juttu */
+#boksi {
+  margin-left: 25%;
+  margin-right: 5%;
+}
+
+#quizcont {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Krungthep", Courier, monospace;
+  color: black;
+  text-align: center;
+}
+
+a {
+  color: black;
+  font-style: italic;
+}
+
+.tekstit {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 100%;
+  text-align: left;
+}
+/* paragrafin asettelu*/
+
+.comment-box {
+  max-width: 37.5rem;
+  color: black;
+  border-radius: 0.875rem;
+  padding: 0.2rem 1rem 2rem;
+}
+.comment-form {
+  background-color: #fff;
+  border-radius: 0.25rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.comment-form-fields {
+  margin-bottom: 0.25rem;
+}
+
+#comment-reveal {
+  float: right;
+}
+.comment {
+  border-top: 0.125rem solid grey;
+}
+.comment-body {
+  font-style: italic;
+  margin-left: 1rem;
+}
+.comment-footer {
+  margin-bottom: 1rem;
+}
+.comment-footer-delete {
+  padding: 0.2rem 0;
+  text-decoration: none;
+}
+
+#kommentti {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+/* Irpon css */
+#vali {
+  width: 10%;
+  margin-left: 5%;
+  position: fixed;
+  top: 10%;
+  display: flex;
+  justify-content: center;
+}
+#valikko {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.Work {
+  border: none;
+  width: 100%;
+  padding: 5px;
+  font-size: 100%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+
+  background: rgb(255, 255, 255, 0.7);
+  border-radius: 2px;
+}
+.Work:hover {
+  background-color: rgb(183, 84, 80);
+}
+
+#laatikkoo {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border: 2px solid #b75450;
+  box-shadow: 2px 2px 5px grey;
+}
+
+#alkukuva {
+  width: 100%;
+}
+
+#otsikko {
+  font-family: "Krungthep", Courier, monospace;
+}
+
+#teksti {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 100%;
+  text-align: left;
+  font-size: 100%;
+  text-align: left;
+}
+
+li {
+  list-style: none;
+}
+/* Ivanan CSS */
+#profiilit {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.kuvat {
+  margin-top: 5%;
+  width: 25%;
+  flex-wrap: wrap;
+}
+
+.kuvausteksti {
+  font-size: 12px;
+  margin-bottom: 100%;
+  text-align: center;
+  margin-bottom: 20%;
+}
+
+.nimi {
+  font-weight: bold;
+}

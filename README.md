@@ -1,2 +1,0 @@
-# VJP
-Created with CodeSandbox
