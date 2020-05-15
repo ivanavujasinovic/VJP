@@ -94,7 +94,7 @@ export const hsy = {
         Tärkeintä on, että poltetaan vain kuivaa ja puhdasta puuta. Vanhaakin
         tulisijaa voi käyttää taitavasti ja vähentää muodostuvien epäpuhtauksien
         määriä. Vinkkejä löytyy sivulta
-        <a href="www.poltapuhtaasti.fi/"> www.poltapuhtaasti.fi/</a>-sivulta.”
+        <a href="poltapuhtaasti.fi/"> www.poltapuhtaasti.fi/</a>-sivulta.”
       </p>
     </div>
   )
