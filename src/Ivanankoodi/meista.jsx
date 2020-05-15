@@ -96,6 +96,7 @@ export const meteksti = {
       <br />
       <p>Instagram: @poltaparemmin</p>
       <p>#poltaparemmin</p>
+      <p>poltaparemmin@gmail.com</p>
     </div>
   )
 };
