@@ -35,7 +35,7 @@ const data = {
       content: `<div>
       <p>Puul&auml;mmitys ja puukiukaat pientaloalueilla pilaavat satojentuhansien suomalaisten terveyden. &ndash; Nyt pit&auml;&auml; ravistella kunnolla, ylil&auml;&auml;k&auml;ri Raimo O. Salonen sanoo. (Apu 19.3.2019)</p>
 
-      < a href="https://www.apu.fi/artikkelit/puunpoltto-aiheuttaa-miehille-keuhkosyopia-kukaan-ei-uskalla-rajoittaa-polttoa">Lue lisää</a>
+      <a href="https://www.apu.fi/artikkelit/puunpoltto-aiheuttaa-miehille-keuhkosyopia-kukaan-ei-uskalla-rajoittaa-polttoa">Lue lisää</a>
 
         </div>`
     }
