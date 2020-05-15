@@ -84,7 +84,7 @@ export const meteksti = {
       <p>
         Kampanjan suunnittelu ja toteutus on ollut monivaiheinen, mutta
         nautinnollinen prosessi kuluneen kev&auml;&auml;n aikana. Haluamme
-        kiitt&auml;&auml; Viestin&auml; ja digitaalinen media -kurssin
+        kiitt&auml;&auml; Viestint&auml; ja digitaalinen media -kurssin
         vastuuprofessori Miia Jaatista, kurssiassistentteja Ilona Malmivirtaa ja
         Aarne Talvelaa sek&auml; Helsingin seudun ymp&auml;rist&ouml;palveluita
         (HSY) asiantuntevasta ohjeista sek&auml; opastuksesta.
