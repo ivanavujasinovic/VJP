@@ -33,16 +33,9 @@ const data = {
       title:
         "Kotien turha puunpoltto ylittää pian liikennepäästöt – Tällaiselle alueelle ei kannata pienten lasten kanssa muuttaa",
       content: `<div>
-        <p>Puunpolton pienhiukkasp&auml;&auml;st&ouml;t puhuttavat yh&auml; kiivaammin. Puul&auml;mmitys tulee olemaan aina osa suomalaista kulttuuria. L&auml;mmityskauden aikana Suomessa tuotetaan tulisijoilla 775 GWh m&auml;&auml;r&auml; 
-        energiaa, joka vastaa l&auml;hes yhden ydinvoimalan tuottamaa energiam&auml;&auml;r&auml;&auml;.</p>
+      <p>Puul&auml;mmitys ja puukiukaat pientaloalueilla pilaavat satojentuhansien suomalaisten terveyden. &ndash; Nyt pit&auml;&auml; ravistella kunnolla, ylil&auml;&auml;k&auml;ri Raimo O. Salonen sanoo. (Apu 19.3.2019)</p>
 
-        <p>Nyt keskityt&auml;&auml;n entist&auml; enemm&auml;n siihen, kuinka puunpolton pienhiukkasp&auml;&auml;st&ouml;t saataisiin minimiin. Tutkimustulosten perusteella tulisijakannan uusimisella on merkitt&auml;vi&auml; vaikutuksia 
-        pienhiukkasp&auml;&auml;st&ouml;ihin. 
-        Nykyp&auml;iv&auml;n energiatehokas tulisija s&auml;&auml;st&auml;&auml; my&ouml;s 
-        selv&auml;&auml; rahaa s&auml;hk&ouml;nkulutuksessa &ndash; etenkin 
-        yhdistettyn&auml; l&auml;mp&ouml;pumppuun. (TSY 5.2.2020)</p>
-
-        <a href="https://tsy.fi/puunpolton-pienhiukkaspaastot/">Lue lisää</a>
+      < a href="https://www.apu.fi/artikkelit/puunpoltto-aiheuttaa-miehille-keuhkosyopia-kukaan-ei-uskalla-rajoittaa-polttoa">Lue lisää</a>
 
         </div>`
     }
